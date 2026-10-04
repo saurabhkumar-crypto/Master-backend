@@ -1,0 +1,16 @@
+{
+  "name": "masterbackend",
+  "version": "1.0.0",
+  "description": "Master backend for placement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JAVASCRIPT",
+    "BACKEND",
+    "CHAIII"
+  ],
+  "author": "Saurabh kumar",
+  "license": "ISC"
+}
